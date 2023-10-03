@@ -22,13 +22,16 @@ In the heart of Crescent Heights, Gyasi discovers a hidden world of street art a
 
 
 🌐 **Web3 Integration (TBD):**
-[Explain how Solana blockchain and NFT minting will be integrated into the game here.]
+- After each level is cleared of enemies access will be granted to the Painted Guardians hangout.
+- Inside of the hangout you will have the ability to mint the current "Tag" NFT available.
+- This NFT will grant you access to the next level and unlocks perks via the FrontEnd. 
 
-💰 **In-Game Currency (TBD):**
-[Explain the use and acquisition of in-game tokens here, if applicable.]
 
 📷 **Screenshots:**
 
+![Screenshot 2023-10-02 at 8 49 51 PM](https://github.com/barigyasi/DreadHead-Game/assets/104705433/d6fb93db-874c-4c55-aeaf-ad2ebc33f8fa)
+![Screenshot 2023-10-02 at 8 50 51 PM](https://github.com/barigyasi/DreadHead-Game/assets/104705433/a66a4491-9e36-46fd-8cf4-b123c52efe11)
+![Screenshot 2023-10-02 at 8 51 44 PM](https://github.com/barigyasi/DreadHead-Game/assets/104705433/424db2c4-f550-4efd-a1a7-15072e19b6f7)
 
 📹 **Gameplay Trailer (TBD):**
 
