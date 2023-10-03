@@ -673,7 +673,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8208458364445286536}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 180561207ebf5244d9e3a0272498d23f, type: 2}
   m_CullingMode: 0
@@ -845,6 +845,7 @@ MonoBehaviour:
   RequireCharacterComponent: 1
   RequirePlayerType: 1
   PointsToAdd: 1
+  CoinID: Coin
 --- !u!1 &8208972468204969734
 GameObject:
   m_ObjectHideFlags: 0

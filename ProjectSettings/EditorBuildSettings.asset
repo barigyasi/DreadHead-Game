@@ -143,8 +143,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: b2d5f414da73844caa685b63d08ad953
-  - enabled: 1
-    path: Assets/Scenes/Crescent Heights.unity
+  - enabled: 0
+    path: Assets/Scenes/Crescent Heights/Crescent Heights.unity
     guid: e8a7efa652e4545f7804b66fab27eb4f
   - enabled: 1
     path: Assets/Scenes/ArtGallery.unity
@@ -152,4 +152,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Store.unity
     guid: db879a26a19054f6a946021e35da7f4a
+  - enabled: 1
+    path: Assets/Scenes/Crescent Heights Grands.unity
+    guid: a3630a368d53a49a39deed15f749d76a
+  - enabled: 1
+    path: Assets/Scenes/Crescent Heights Store.unity
+    guid: f0d6bd2a558644a198f6b71010a932fa
+  - enabled: 1
+    path: Assets/Scenes/Crescent Heights Art.unity
+    guid: f8100768b25e44f7cbf1a433ca43f0f0
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 1971c7a812f3e480fb97e59e762039ba
+  - enabled: 1
+    path: Assets/Scenes/Home After Store.unity
+    guid: ed88a47c9e8f5407fb54c4ec8e60b0ff
   m_configObjects: {}
