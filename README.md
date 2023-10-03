@@ -1,6 +1,6 @@
-# Urban Legends: Rise of the Streets 🎨🌆
+# Urban Legends: DREADHEAD 🎨🌆
 
-Welcome to "Urban Legends: Rise of the Streets," an exciting street art and culture RPG game set in a vibrant urban landscape. Join Gyasi, a young artist, as he embarks on a quest to uncover the secrets of the streets and protect his community.
+Welcome to "Urban Legends: DREADHEAD," an exciting street art and culture RPG game set in a vibrant urban landscape. Join Gyasi, a young artist, as he embarks on a quest to uncover the secrets of the streets and protect his community.
 
 🎮 **Game Overview:**
 - **Platform**: Solana Blockchain
